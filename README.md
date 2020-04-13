@@ -7,3 +7,6 @@ Then, grep for your flag format.
 
 ## username-gen.py
 Accepts a file with full names, and generates a file `usernames.txt` with a bunch of possible usernames for each user. Useful for brute-forcing credentials for CTF and pentesting challenges.
+
+## portscan.sh
+Checks for all open ports at an ip address, and then scans known ports deeper, outputting a nmap.txt file in normal format.
