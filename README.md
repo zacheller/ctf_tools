@@ -10,3 +10,6 @@ Accepts a file with full names, and generates a file `usernames.txt` with a bunc
 
 ## portscan.sh
 Checks for all open ports at an ip address, and then scans known ports deeper, outputting a nmap.txt file in normal format.
+
+## XOR-files.py
+Accepts a filename and a key as parameters. Useful for unencrypting files with known file types.
