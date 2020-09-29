@@ -3,7 +3,7 @@
 ## rotsolver.sh
 Accepts specified params and piped text. Outputs ROT1->ROT25 and ROT47 / 94 PRINTABLE ASCII CHARACTERS FROM ! (33) TO ~ (126).
 
-Then, grep for your flag format.
+Then, `grep` for your flag format.
 
 ## username-gen.py
 Accepts a file with full names, and generates a file `usernames.txt` with a bunch of possible usernames for each user. Useful for brute-forcing credentials for CTF and pentesting challenges.
